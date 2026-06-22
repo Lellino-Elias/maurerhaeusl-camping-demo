@@ -29,7 +29,7 @@ const maurerhaeusl: CampsiteConfig = {
   pillars: [
     { title: "Am Fuße der Berge", text: "Der Platz liegt am Fuße der Buchensteinwand — ringsum nur Wiesen, Wald und die Tiroler Bergwelt.", image: { src: `${IMG}/haus-berg.webp`, alt: "Wohnwagen zwischen Blumenwiese und Bergwald am Naturcamping Maurerhäusl im Sommer" } },
     { title: "Mitten in der Wiese", text: "Ebene Stellplätze mitten in der Blumenwiese, kurze Wege und viel Platz zum Durchatmen.", image: { src: `${IMG}/blumenwiese.webp`, alt: "Blühende Wiese mit Wohnwagen vor den Bergen am Maurerhäusl" } },
-    { title: "Ein kleiner Bauernhof", text: "Pony Moritz, Ziegen, Schafe und Hühner gehören dazu — Landwirtschaft zum Anfassen.", image: { src: `${IMG}/pony-moritz.webp`, alt: "Pony Moritz auf der Wiese am Maurerhäusl" } },
+    { title: "Ein kleiner Bauernhof", text: "Pony Moritz, Ziegen, Schafe und Hühner gehören dazu — Landwirtschaft zum Anfassen.", image: { src: `${IMG}/pony-moritz.webp`, alt: "Pony Moritz auf der Sommerwiese am Maurerhäusl mit Blick auf die Tiroler Berge" } },
   ],
 
   usps: ["36 Stellplätze mit Strom", "Täglicher Brötchenservice", "Gasverkauf am Platz", "Hunde willkommen", "Ruhige Naturlage"],
@@ -61,8 +61,8 @@ const maurerhaeusl: CampsiteConfig = {
       { title: "Eingebettet ins Tal", text: "Der Platz liegt ruhig im Tal, abseits vom Trubel — rundum nur Wiesen, Wald und Tiroler Bergwelt.", image: { src: `${IMG}/lage-tal.webp`, alt: "Luftbild der Lage des Maurerhäusl im PillerseeTal" } },
       { title: "Empfang & Brötchen", text: "An der Rezeption wirst du persönlich begrüßt — frische Brötchen gibt es jeden Morgen auf Bestellung.", image: { src: `${IMG}/rezeption.webp`, alt: "Rezeption und Eingang des Maurerhäusl mit Blumen" } },
       { title: "Mittendrin in der Natur", text: "Zwischen Wiese und Wald stehst du hier wirklich in der Natur — mit Tieren als ruhigen Nachbarn.", image: { src: `${IMG}/natur.webp`, alt: "Naturnaher Blick über die Wiese mit grasenden Tieren am Maurerhäusl" } },
-      { title: "Auch im Winter dabei", text: "Mit Gasverkauf am Platz bist du auch für die kalte Jahreszeit gerüstet — Wintercamping inklusive.", image: { src: `${IMG}/wintercamping.webp`, alt: "Verschneites Maurerhäusl im Winter mit Räumfahrzeug" } },
-      { title: "Plätze zum Durchatmen", text: "Kein Massentourismus, kein Lärm — nur ein kleiner Platz, an dem du wirklich zur Ruhe kommst.", image: { src: `${IMG}/ruhebank.webp`, alt: "Holzbank mit Herz und Blick auf den Campingplatz Maurerhäusl" } },
+      { title: "Auch im Winter dabei", text: "Mit Gasverkauf am Platz bist du auch für die kalte Jahreszeit gerüstet — Wintercamping inklusive.", image: { src: `${IMG}/wintercamping.webp`, alt: "Wohnmobile auf dem verschneiten Campingplatz Maurerhäusl im Winter" } },
+      { title: "Plätze zum Durchatmen", text: "Kein Massentourismus, kein Lärm — nur ein kleiner Platz, an dem du wirklich zur Ruhe kommst.", image: { src: `${IMG}/ruhebank.webp`, alt: "Holztor mit Herzausschnitt am Naturcamping Maurerhäusl im Sommer" } },
     ],
   },
 
@@ -81,8 +81,8 @@ const maurerhaeusl: CampsiteConfig = {
     intro:
       "Rad-, Wander- und Reitwege führen direkt am Platz vorbei, der Wiesensee mit Kneippanlage liegt nur Minuten entfernt — und im Winter startet die Langlaufloipe fast vor der Tür.",
     items: [
-      { title: "Wiesensee & Kneippanlage", text: "Wiesensee mit Kneippanlage und Naturkletterwand — über den Wanderweg in wenigen Minuten erreicht.", image: { src: `${IMG}/wiesensee.webp`, alt: "Stiller See mit Schilf und Bergen im PillerseeTal" } },
-      { title: "Langlaufen am Platz", text: "Die Langlaufloipe führt fast direkt am Haus vorbei — schneesicher von Ende November bis nach Ostern.", image: { src: `${IMG}/langlauf-loipe.webp`, alt: "Langlaufloipe direkt am verschneiten Maurerhäusl" } },
+      { title: "Wiesensee & Kneippanlage", text: "Wiesensee mit Kneippanlage und Naturkletterwand — über den Wanderweg in wenigen Minuten erreicht.", image: { src: `${IMG}/wiesensee.webp`, alt: "Der Wiesensee im PillerseeTal mit Schilf, Wald und Bergpanorama" } },
+      { title: "Langlaufen am Platz", text: "Die Langlaufloipe führt fast direkt am Haus vorbei — schneesicher von Ende November bis nach Ostern.", image: { src: `${IMG}/langlauf-loipe.webp`, alt: "Langlaufloipe direkt vor dem Naturcamping Maurerhäusl im Sonnenwinter" } },
       { title: "Ski & Winterwandern", text: "Das Skigebiet Buchensteinwand ist in Minuten erreicht — dazu Winterwandern und Tourengehen ringsum.", image: { src: `${IMG}/winter-panorama.webp`, alt: "Verschneite Bergkulisse über dem PillerseeTal" } },
     ],
   },
