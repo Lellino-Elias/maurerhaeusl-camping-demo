@@ -104,7 +104,7 @@ const maurerhaeusl: CampsiteConfig = {
     tag: "Sommer & Winter",
     moreCount: 30,
     images: [
-      { src: `${IMG}/sommerwiese.webp`, alt: "Luftaufnahme des Naturcamping Maurerhäusl mit Haus und Stellplätzen am Fuße der Tiroler Bergwälder" },
+      { src: `${IMG}/sommerwiese.webp`, alt: "Das Naturcamping Maurerhäusl mit Haus und Stellplätzen am Fuße der Tiroler Bergwälder" },
       { src: `${IMG}/regenbogen.webp`, alt: "Regenbogen über dem Campingplatz Maurerhäusl" },
       { src: `${IMG}/winter-berge.webp`, alt: "Verschneite Bergkulisse rund um Hochfilzen" },
       { src: `${IMG}/huehner.webp`, alt: "Frei laufende Hühner auf der Wiese am Maurerhäusl" },
